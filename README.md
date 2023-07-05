@@ -20,6 +20,16 @@ Links etc to be shared with bootcamp participants
   - [Design 5](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz5.java)
   - [Design 6](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz6.java)
 - [FizzBuzz Coding Demo](https://vimeo.com/813994444/d6a81e4275)
+- Prepping for Day 2: 
+  - The code you'll need is [here](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+  - [Getting approval tests working](https://docs.google.com/document/d/18XsMcFpEaMVboDV34adPQAfoJumMS94Ya3nMOeOpjkc/edit#heading=h.6sccsyevgws2)
+    - I'm aware this link won't work for some - I'll move it over to GitHub asap and update this page.
+ 
+# DAY TWO 
+
+- Prepping for Day 2:
+  - The code you'll need is [here](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+  - [Getting approval tests working](https://docs.google.com/document/d/18XsMcFpEaMVboDV34adPQAfoJumMS94Ya3nMOeOpjkc/edit#heading=h.6sccsyevgws2)
 
 # LINKS TO FIND CLARE SUDBERY
 
