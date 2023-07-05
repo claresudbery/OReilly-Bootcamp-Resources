@@ -9,7 +9,7 @@ Links etc to be shared with bootcamp participants
 - [Slack - book by Tom DeMarco](https://tinyurl.com/slack-demarco)
 - [Martin Fowler on Kent Beck’s 4 rules of design](https://martinfowler.com/bliki/BeckDesignRules.html)
 - [“YAGNI” (You Ain’t Gonna Need It) - article by Ron Jeffries](https://ronjeffries.com/xprog/articles/practices/pracnotneed/)
-- Exercise instructions - [Fizzbuzz requirements](https://tinyurl.com/fizzbuzz-desc)
+- Exercise instructions - [Fizzbuzz requirements](https://www.sammancoaching.org/kata_descriptions/fizzbuzz.html)
 - Sample FizzBuzz designs:
   - [Design 1](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz1.java)
   - [Design 2](https://github.com/emilybache/FizzBuzzKata-Samples/blob/master/java/src/main/java/codingdojo/Fizzbuzz2.java)
