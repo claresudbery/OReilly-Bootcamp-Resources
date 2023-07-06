@@ -1,3 +1,14 @@
+The Google Doc version of this page is [here]([Title](https://docs.google.com/document/d/18XsMcFpEaMVboDV34adPQAfoJumMS94Ya3nMOeOpjkc/edit#heading%253Dh.rgjxkentq0vm))
+
+# Table of contents
+
+- [Gilded Rose: Getting Started With Approval Tests in C#](#gilded-rose-getting-started-with-approval-tests-in-c)
+- [Gilded Rose and Approval Tests for .Net Core in Rider on a Mac](#gilded-rose-and-approval-tests-for-net-core-in-rider-on-a-mac)
+- [Gilded Rose C# Approval testing with nuget ApprovalTests package](#gilded-rose-c-approval-testing-with-nuget-approvaltests-package)
+- [Verify Approval Testing Tool](#verify-approval-testing-tool)
+- [Gilded Rose: Working in Visual Studio](#gilded-rose-working-in-visual-studio)
+- [Gilded Rose C# Approval testing with texttest tool](#gilded-rose-c-approval-testing-with-texttest-tool)
+
 # Gilded Rose: Getting Started With Approval Tests in C#
 
 - There are two ways to run approval tests. The simplest is to use the nuget [ApprovalTests package](https://github.com/approvals/ApprovalTests.Net), as in [ApprovalTest.cs](https://github.com/claresudbery/GildedRose-Refactoring-Kata/blob/csharp-liftup-start/csharp/ApprovalTest.cs). 
