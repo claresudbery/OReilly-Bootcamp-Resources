@@ -1,4 +1,4 @@
-The Google Doc version of this page is [here]([Title](https://docs.google.com/document/d/18XsMcFpEaMVboDV34adPQAfoJumMS94Ya3nMOeOpjkc/edit#heading%253Dh.rgjxkentq0vm))
+The Google Doc version of this page is [here](https://docs.google.com/document/d/18XsMcFpEaMVboDV34adPQAfoJumMS94Ya3nMOeOpjkc/edit#heading%253Dh.rgjxkentq0vm).
 
 # Table of contents
 
