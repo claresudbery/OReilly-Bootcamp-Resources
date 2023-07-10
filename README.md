@@ -27,9 +27,21 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
  
 # DAY TWO 
 
-- Prepping for Day 2:
-  - The code you'll need is [here](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-  - [Getting approval tests working](/gilded-rose-approvals.md)
+## CODE COVERAGE TOOLS
+- .Net:
+  - NCrunch
+  - Visual Studio
+  - DotCover
+  - Rider - DotCover
+- Other:
+  - IntelliJ - IDEA
+
+## USING COVERAGE TO ADD TESTS - EXERCISE 
+- Code is [here](https://github.com/emilybache/GildedRose-Refactoring-Kata) 
+- Requirements are in the readme
+- Run this command to clone the code: git clone https://github.com/emilybache/GildedRose-Refactoring-Kata.git
+- Choose your language
+- Instructions [here](/gilded-rose-approvals.md) on getting approval tests working with the Gilded Rose kata
 
 # LINKS TO FIND CLARE SUDBERY
 
