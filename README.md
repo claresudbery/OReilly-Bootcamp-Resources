@@ -1,5 +1,5 @@
 # OReilly-Bootcamp-Resources
-Links etc to be shared with bootcamp participants
+Links etc to be shared with bootcamp participants. The Google doc version of this page is [here](https://docs.google.com/document/d/1-R4NSu679ymbXBneWmib8HC4viaGqmkLzGGPu9ITSOE/edit?usp=sharing).
 
 # LINKS FROM DAY 1
 - [DORA reports](https://www.devops-research.com/research.html)
