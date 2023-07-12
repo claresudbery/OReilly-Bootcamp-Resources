@@ -54,6 +54,7 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 ## LINKS FROM DAY 2
 - Code coverage tools - see above
 - [Gilded Rose kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+  - My [demo C# code of approval tests with 100% code coverage](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/coverage-demo-complete)
 - [Lift kata](https://github.com/emilybache/Lift-Kata/)
 
 # LINKS TO FIND CLARE SUDBERY
