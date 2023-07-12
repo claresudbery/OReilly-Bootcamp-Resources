@@ -1,6 +1,14 @@
 # OReilly-Bootcamp-Resources
 Links etc to be shared with bootcamp participants. The Google doc version of this page is [here](https://docs.google.com/document/d/1-R4NSu679ymbXBneWmib8HC4viaGqmkLzGGPu9ITSOE/edit?usp=sharing).
 
+# Table of contents
+- [Links from Day 1](#links-from-day-1)
+- [Day 2](#day-two)
+  - [Code coverage tools](#code-coverage-tools)
+  - [Using coverage to add tests - exercise](#using-coverage-to-add-tests---exercise)
+  - [Links from Day 2](#links-from-day-2)
+- [Links to find Clare Sudbery](#links-to-find-clare-sudbery)
+
 # LINKS FROM DAY 1
 - [DORA reports](https://www.devops-research.com/research.html)
 - [Accelerate - book by the people behind DORA](https://itrevolution.com/book/accelerate/)
