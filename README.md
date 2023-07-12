@@ -29,12 +29,12 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 
 ## CODE COVERAGE TOOLS
 - .Net:
-  - NCrunch
-  - Visual Studio
-  - DotCover
-  - Rider - DotCover
+  - [NCrunch](https://www.ncrunch.net/)
+  - [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/test/using-code-coverage-to-determine-how-much-code-is-being-tested?view=vs-2022&tabs=csharp)
+  - [DotCover](https://www.jetbrains.com/dotcover)
+  - [Rider - DotCover](https://www.jetbrains.com/help/rider/Settings_DotCover.html)
 - Other:
-  - IntelliJ - IDEA
+  - [IntelliJ - IDEA](https://www.jetbrains.com/help/idea/code-coverage.html)
 
 ## USING COVERAGE TO ADD TESTS - EXERCISE 
 - Code is [here](https://github.com/emilybache/GildedRose-Refactoring-Kata) 
@@ -42,6 +42,11 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 - Run this command to clone the code: git clone https://github.com/emilybache/GildedRose-Refactoring-Kata.git
 - Choose your language
 - Instructions [here](/gilded-rose-approvals.md) on getting approval tests working with the Gilded Rose kata
+
+## LINKS FROM DAY 2
+- Code coverage tools - see above
+- [Gilded Rose kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+- [Lift kata](https://github.com/emilybache/Lift-Kata/)
 
 # LINKS TO FIND CLARE SUDBERY
 
