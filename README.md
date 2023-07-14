@@ -57,6 +57,10 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
   - My [demo C# code of approval tests with 100% code coverage](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/coverage-demo-complete)
 - [Lift kata](https://github.com/emilybache/Lift-Kata/)
 
+# DAY THREE
+
+# DAY FOUR
+
 # LINKS TO FIND CLARE SUDBERY
 
 - [Clare's LinkedIn](https://www.linkedin.com/in/clare-sudbery-she-her-35939540/)
