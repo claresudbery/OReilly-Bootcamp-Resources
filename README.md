@@ -7,6 +7,8 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
   - [Code coverage tools](#code-coverage-tools)
   - [Using coverage to add tests - exercise](#using-coverage-to-add-tests---exercise)
   - [Links from Day 2](#links-from-day-2)
+- [Day 3](#day-three)
+- [Day 4](#day-four)
 - [Links to find Clare Sudbery](#links-to-find-clare-sudbery)
 
 # LINKS FROM DAY 1
