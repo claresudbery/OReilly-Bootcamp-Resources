@@ -11,6 +11,7 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
   - [KEYBOARD SHORTCUTS for “Replace conditional with polymorphism”](#keyboard-shortcuts-for-replace-conditional-with-polymorphism)
   - [Links from Day 3](#links-from-day-3)
 - [Day 4](#day-four)
+  - [What you need for day 4 exercises](#what-you-need-for-day-4-exercises)
   - [Links from Day 4](#links-from-day-4)
 - [Links to find Clare Sudbery](#links-to-find-clare-sudbery)
 
