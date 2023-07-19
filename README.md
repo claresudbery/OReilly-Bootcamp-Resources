@@ -71,6 +71,8 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 
 ## KEYBOARD SHORTCUTS for “Replace conditional with polymorphism”
 
+(Keyboard shortcuts for lift up conditional [are here](/lift-up-conditional-step-by-step.md).)
+
 Using Resharper:
 
 - Replace constructor with factory method
@@ -113,6 +115,7 @@ Using Resharper:
     - [Video demo](https://vimeo.com/801311948/41a83a3c4e)
     - [Lift up conditional - start point](https://github.com/claresudbery/GildedRose-Refactoring-Kata/blob/csharp-liftup-start/csharp/GildedRose.cs) 
     - [Lift up conditional - end point](https://github.com/claresudbery/GildedRose-Refactoring-Kata/blob/csharp-liftup-demo/csharp/GildedRose.cs)
+    - [Step by step instructions, with keyboard shortcuts](/lift-up-conditional-step-by-step.md)
     - My fork of the GildedRose repo - [the branch with all the commits demoing the lift-up conditional technique](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/csharp-liftup-demo)
     - [Emily Bache's Gilded Rose videos](https://clare-wiki.herokuapp.com/pages/think/code-princ/Refactoring#emilys-gilded-rose-demo-videos) (including a "lift up conditional" demo) 
 
