@@ -83,6 +83,8 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 - Refactoring vocabulary / extract method:
     - Martin Fowler’s [refactoring catalog](https://refactoring.com/catalog/)
     - Code base: [Tennis refactoring kata](https://github.com/emilybache/Tennis-Refactoring-Kata)
+    - [Demo code - first demo](https://github.com/claresudbery/Tennis-Refactoring-Kata/blob/extract-method/csharp/Tennis/TennisGame3.cs)
+    - [Demo code - second demo](https://github.com/claresudbery/Tennis-Refactoring-Kata/blob/extract-method-demo/csharp/Tennis/TennisGame1.cs)
     - [Video demo](https://www.youtube.com/watch?v=8G0Y4kDdqNY)
 - Replace conditional with polymorphism:
     - Code base: [Parrot refactoring kata](https://github.com/emilybache/Parrot-Refactoring-Kata)
