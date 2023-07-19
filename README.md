@@ -86,7 +86,8 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
     - [Video demo](https://www.youtube.com/watch?v=8G0Y4kDdqNY)
 - Replace conditional with polymorphism:
     - Code base: [Parrot refactoring kata](https://github.com/emilybache/Parrot-Refactoring-Kata)
-    - [Video demo](https://drive.google.com/file/d/1-0jeMv9jg3Tpr_4ln13-8e1cVbIRshBh/view?usp=sharing)
+    - [Step by step instructions](/polymorphism-step-by-step.md)
+    - [What the code looks like when all the polymorphic refactoring has been completed](https://github.com/claresudbery/Parrot-Refactoring-Kata/tree/polymorphism-no-inheritance/CSharp/Parrot)
     - [Martin Fowler’s page on this technique](https://refactoring.com/catalog/replaceConditionalWithPolymorphism.html)
     - [Emily Bache demos the technique on Gilded Rose](https://www.youtube.com/watch?v=NADVhSjeyJA)
 - Lift up conditional:
