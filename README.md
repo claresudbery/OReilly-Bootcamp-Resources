@@ -8,7 +8,10 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
   - [Using coverage to add tests - exercise](#using-coverage-to-add-tests---exercise)
   - [Links from Day 2](#links-from-day-2)
 - [Day 3](#day-three)
+  - [KEYBOARD SHORTCUTS for “Replace conditional with polymorphism”]()
+  - [Links from Day 3](#links-from-day-3)
 - [Day 4](#day-four)
+  - [Links from Day 4](#links-from-day-4)
 - [Links to find Clare Sudbery](#links-to-find-clare-sudbery)
 
 # LINKS FROM DAY 1
@@ -61,7 +64,58 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 
 # DAY THREE
 
+## KEYBOARD SHORTCUTS for “Replace conditional with polymorphism”
+
+Using Resharper:
+
+- Replace constructor with factory method
+    - Place cursor in name of constructor
+    - Alt Enter => To factory method
+- Change access modifier of constructor
+    - Place cursor in access modifier (ie "public")
+    - Alt Enter => To protected
+- Create class
+    - type `return new MyClassName();`
+    - place cursor in name of class
+    - Alt Enter => Create type
+- Change access modifier of GetBaseSpeed
+    - Place cursor in access modifier (ie "private")
+    - Alt Enter => To protected
+- Change Signature of GetSpeed
+    - Place cursor in function name
+    - Alt Enter => To virtual
+- Override method
+    - type the word override and then a space
+    - as long as there is something you can override, you will be given suggestions
+
+## Links from Day 3
+
+- Many more much smaller steps:
+    - Geepaw Hill’s [MMMSS idea](https://www.geepawhill.org/2021/09/29/many-more-much-smaller-steps-first-sketch/)
+    - [Benefits of MMMSS](https://www.geepawhill.org/2021/11/16/mmmss-the-intrinsic-benefit-of-steps/)
+    - [Rework avoidance theory](https://www.geepawhill.org/2020/07/17/the-rat-rework-avoidance-theory/) 
+- Refactoring vocabulary / extract method:
+    - Martin Fowler’s [refactoring catalog](https://refactoring.com/catalog/)
+    - Code base: [Tennis refactoring kata](https://github.com/emilybache/Tennis-Refactoring-Kata)
+    - [Video demo](https://www.youtube.com/watch?v=8G0Y4kDdqNY)
+- Replace conditional with polymorphism:
+    - Code base: [Parrot refactoring kata](https://github.com/emilybache/Parrot-Refactoring-Kata)
+    - [Video demo](https://drive.google.com/file/d/1-0jeMv9jg3Tpr_4ln13-8e1cVbIRshBh/view?usp=sharing)
+    - [Martin Fowler’s page on this technique](https://refactoring.com/catalog/replaceConditionalWithPolymorphism.html)
+    - [Emily Bache demos the technique on Gilded Rose](https://www.youtube.com/watch?v=NADVhSjeyJA)
+- Lift up conditional:
+    - Code base: [Gilded rose refactoring kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+    - [Video demo](https://vimeo.com/801311948/41a83a3c4e)
+    - [Lift up conditional - start point](https://github.com/claresudbery/GildedRose-Refactoring-Kata/blob/csharp-liftup-start/csharp/GildedRose.cs) 
+    - [Lift up conditional - end point](https://github.com/claresudbery/GildedRose-Refactoring-Kata/blob/csharp-liftup-demo/csharp/GildedRose.cs)
+    - My fork of the GildedRose repo - [the branch with all the commits demoing the lift-up conditional technique](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/csharp-liftup-demo)
+    - [Emily Bache's Gilded Rose videos](https://clare-wiki.herokuapp.com/pages/think/code-princ/Refactoring#emilys-gilded-rose-demo-videos) (including a "lift up conditional" demo) 
+
 # DAY FOUR
+
+## Links from Day 4
+
+
 
 # LINKS TO FIND CLARE SUDBERY
 
