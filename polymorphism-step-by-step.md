@@ -39,6 +39,8 @@ The finished code can be viewed [here](https://github.com/claresudbery/Parrot-Re
         - type `return new EuropeanParrot();` in the case
         - Give it the same four params as the enclosing method
             - start typing `type` inside brackets and it will give you option to select and auto-complete
+            - You're not passing hard-coded values here!
+                - Just passing on the data that's already been given to you in your own constructor
             - keep adding commas after each one and it will keep giving you options to select and auto-complete
         - place cursor in name of non-existent class (highlighted in red)
         - [AE] => Create type
