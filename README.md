@@ -113,9 +113,22 @@ Using Resharper:
 
 # DAY FOUR
 
+## What you need for day 4 exercises
+
+- Visit the following 3 urls to fork (top right), then clone the code: 
+    - Dependency inversion - [Racing car kata](https://github.com/emilybache/Racing-Car-Katas.git)
+    - Test doubles - [Delivery controller kata](https://github.com/emilybache/DeliveryController-Refactoring-Kata.git)
+    - Parallel change - [Gilded rose kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+
 ## Links from Day 4
 
-
+- [Strangler Fig Pattern - Martin Fowler article](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- [Martin Fowler - Mocks aren’t stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [Racing Car Kata - used for dependency injection and parallel change](https://github.com/emilybache/Racing-Car-Katas)
+    - [The code I wrote when demonstrating dependency injection and parallel change](https://github.com/claresudbery/Racing-Car-Katas/blob/parallel-change-scratch/CSharp/TirePressureMonitoringSystem/Alarm.cs)
+- [Delivery Controller kata - used for test doubles](https://github.com/emilybache/DeliveryController-Refactoring-Kata)
+    - [The code I wrote when demonstrating test doubles](https://github.com/claresudbery/DeliveryController-Refactoring-Kata/blob/bootcamp-scratch/csharp/DeliveryControllerTest/DeliveryControllerTest.cs)
+    - [My test-start branch - used as starting point for exercise](https://github.com/claresudbery/DeliveryController-Refactoring-Kata/tree/test-start)
 
 # LINKS TO FIND CLARE SUDBERY
 
@@ -125,6 +138,7 @@ Using Resharper:
   - [Interview with Emily Bache on Refactoring](https://www.madetech.com/podcast/episode-19-emily-bache/)
   - [Interview with Geepaw Hill on Test Driven Development](https://www.madetech.com/podcast/episode-15-geepaw-hill/)
   - [Interview with Meri Williams on Changing legacy systems](https://www.madetech.com/podcast/episode-10-meri-williams/)
+- Clare’s [O’Reilly report on Trunk-Based Development and Continuous Integration](https://www.oreilly.com/library/view/what-is-trunk-based/9781098146658/)
 - [Quality Code Bootcamp delivered by Clare for O’Reilly Learning](https://learning.oreilly.com/live-events/quality-code-boot-camp/0636920086483/)
 - [Fundamentals of Refactoring](https://learning.oreilly.com/live-events/fundamentals-of-refactoring/0636920069707/0636920069705/), delivered by Clare for O'Reilly learning
 - [Refactoring for Continuous Delivery](https://learning.oreilly.com/live-events/refactoring-for-continuous-delivery/0636920074785/0636920074784/), delivered by Clare for O'Reilly learning
