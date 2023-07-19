@@ -71,29 +71,8 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 
 ## KEYBOARD SHORTCUTS for “Replace conditional with polymorphism”
 
-(Keyboard shortcuts for lift up conditional [are here](/lift-up-conditional-step-by-step.md).)
-
-Using Resharper:
-
-- Replace constructor with factory method
-    - Place cursor in name of constructor
-    - Alt Enter => To factory method
-- Change access modifier of constructor
-    - Place cursor in access modifier (ie "public")
-    - Alt Enter => To protected
-- Create class
-    - type `return new MyClassName();`
-    - place cursor in name of class
-    - Alt Enter => Create type
-- Change access modifier of GetBaseSpeed
-    - Place cursor in access modifier (ie "private")
-    - Alt Enter => To protected
-- Change Signature of GetSpeed
-    - Place cursor in function name
-    - Alt Enter => To virtual
-- Override method
-    - type the word override and then a space
-    - as long as there is something you can override, you will be given suggestions
+- See [separate page](/polymorphism-step-by-step.md)
+- (Keyboard shortcuts for lift up conditional [are here](/lift-up-conditional-step-by-step.md).)
 
 ## Links from Day 3
 
