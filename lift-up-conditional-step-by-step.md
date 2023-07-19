@@ -63,8 +63,6 @@ This version has simpler instructions, and a gap in the middle where I skip to t
 
 (simpler version [above](#step-by-step-simple-refactor-instructions))
 
-- turn off ncrunch
-- turn on autosave
 - create a local `item` var to make it easier to extract methods
   - Ctrl + R, V
   - TESTS STILL PASS
