@@ -7,7 +7,7 @@
 
 # Finding the code
 
-- [Raw code is here]()
+- [Raw code is here](https://github.com/emilybache/Racing-Car-Katas)
   - Visit the above url to fork (top right), then clone the code
 
 # Lab Exercise 1
