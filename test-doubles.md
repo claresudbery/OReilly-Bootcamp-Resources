@@ -1,9 +1,9 @@
 # Table of contents
 
-- [Finding the code](finding-the-code)
-- [Lab Exercise 1](lab-exercise-1)
-- [Lab Exercise 2](lab-exercise-2)
-  - [C# demo notes](c-demo-notes)
+- [Finding the code](#finding-the-code)
+- [Lab Exercise 1](#lab-exercise-1)
+- [Lab Exercise 2](#lab-exercise-2)
+  - [C# demo notes](#c-demo-notes)
 
 # Finding the code
 
