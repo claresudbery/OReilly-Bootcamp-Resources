@@ -1,9 +1,9 @@
 # Table of contents
 
-- [Finding the code]()
-- [Lab Exercise 1]()
-- [Lab Exercise 2]()
-- [Step by step C# demo instructions]()
+- [Finding the code](finding-the-code)
+- [Lab Exercise 1](lab-exercise-1)
+- [Lab Exercise 2](lab-exercise-2)
+  - [Step by step C# demo instructions](step-by-step-c-demo-instructions)
 
 # Finding the code
 
