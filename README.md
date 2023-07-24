@@ -105,10 +105,13 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 
 ## What you need for day 4 exercises
 
-- Visit the following 3 urls to fork (top right), then clone the code: 
-    - Dependency inversion - [Racing car kata](https://github.com/emilybache/Racing-Car-Katas.git)
+- Visit the following 2 urls to fork (top right), then clone the code: 
+    - Dependency inversion and parallel change - [Racing car kata](https://github.com/emilybache/Racing-Car-Katas.git)
     - Test doubles - [Delivery controller kata](https://github.com/emilybache/DeliveryController-Refactoring-Kata.git)
-    - Parallel change - [Gilded rose kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+- Exercise instructions and demo code:
+    - [Dependency inversion](/dependency-injection.md)
+    - [Test doubles](/test-doubles.md)
+    - [Parallel change](/parallel-change.md)
 
 ## Links from Day 4
 
