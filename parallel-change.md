@@ -40,7 +40,7 @@
 # Lab Exercise 2
 
 - Code from the coding demo can be seen [here](https://github.com/claresudbery/Racing-Car-Katas/blob/parallel-change-demo)
-- You task is still the same as in [exercise 1](#lab-exercise-1)
+- Your task is still the same as in [exercise 1](#lab-exercise-1)
 - There are two parts to this exercise (if you have time): First duplicate method with flag, then create two new methods
   
 ## Step by step C# demo instructions
