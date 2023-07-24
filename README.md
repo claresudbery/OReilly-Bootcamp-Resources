@@ -117,11 +117,7 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 
 - [Strangler Fig Pattern - Martin Fowler article](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - [Martin Fowler - Mocks aren’t stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-- [Racing Car Kata - used for dependency injection and parallel change](https://github.com/emilybache/Racing-Car-Katas)
-    - [The code I wrote when demonstrating dependency injection and parallel change](https://github.com/claresudbery/Racing-Car-Katas/blob/parallel-change-scratch/CSharp/TirePressureMonitoringSystem/Alarm.cs)
-- [Delivery Controller kata - used for test doubles](https://github.com/emilybache/DeliveryController-Refactoring-Kata)
-    - [The code I wrote when demonstrating test doubles](https://github.com/claresudbery/DeliveryController-Refactoring-Kata/blob/bootcamp-scratch/csharp/DeliveryControllerTest/DeliveryControllerTest.cs)
-    - [My test-start branch - used as starting point for exercise](https://github.com/claresudbery/DeliveryController-Refactoring-Kata/tree/test-start)
+- See [above](#what-you-need-for-day-4-exercises) for exercise instructions and demo code
 
 # LINKS TO FIND CLARE SUDBERY
 
