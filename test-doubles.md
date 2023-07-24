@@ -3,7 +3,7 @@
 - [Finding the code](finding-the-code)
 - [Lab Exercise 1](lab-exercise-1)
 - [Lab Exercise 2](lab-exercise-2)
-  - [Step by step C# demo instructions](c-demo-notes)
+  - [C# demo notes](c-demo-notes)
 
 # Finding the code
 
