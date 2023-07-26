@@ -49,7 +49,7 @@
 - [This code](https://github.com/claresudbery/DeliveryController-Refactoring-Kata/blob/bootcamp-scratch) creates a test double for map service as well as email gateway
     - It actually creates many different types of test double for different jobs in different types of test
 - Examples
-    - DUMMY: `dummyDeliveryEvent` in `Test_UpdateDelivery_SendsEmail`
+    - DUMMY: `dummyMapService` in `Test_UpdateDelivery_SetsOnTimeToFalse_IfDeliveryAfterTenMins`
     - STUB: `stubMapService` (returns data from `CalculateEta` for the email gateway)
     - MOCK: `mockEmailGateway` (also a spy)
     - SELF SHUNT (also mock/spy): the test class implements `IMapService`
