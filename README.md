@@ -115,6 +115,7 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 
 ## Links from Day 4
 
+- [Getting started with XUnit / installing packages](https://hamidmosalla.com/2020/01/05/xunit-part-1-xunit-packages-and-writing-your-first-unit-test/)
 - [Strangler Fig Pattern - Martin Fowler article](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - [Martin Fowler - Mocks aren’t stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - See [above](#what-you-need-for-day-4-exercises) for exercise instructions and demo code
