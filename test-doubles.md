@@ -61,6 +61,9 @@
 - The terminology doesn't matter as much as the ideas
 - Stubs and Fakes are simpler than Mocks and Spies - the latter will fail the test if they are not called correctly.
 - You don’t need to replace a value object with a test double.
+    - For instance, the `DeliveryController` constructor takes a `deliverySchedule` param
+        - This is a list of deliveries which are composed of raw types such as string, float etc
+        - so here you just pass in raw data constructed for the purpose of the test - not same thing as test double
 - You might not even need to replace a more complex collaborator with a double. 
 - Usually only need a stub if the real collaborator is slow, unreliable or otherwise difficult to use in a unit test. 
 - Only need a mock if you need to check the collaborator received correct calls or data.
