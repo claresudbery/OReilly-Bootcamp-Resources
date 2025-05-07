@@ -57,9 +57,10 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 ## USING COVERAGE TO ADD TESTS - EXERCISE 
 - Code is [here](https://github.com/emilybache/GildedRose-Refactoring-Kata) 
 - Requirements are in the readme
-- Run this command to clone the code: git clone https://github.com/emilybache/GildedRose-Refactoring-Kata.git
+- Visit this url to fork (top right), then clone the code: https://github.com/emilybache/GildedRose-Refactoring-Kata.git
 - Choose your language
-- Instructions [here](/gilded-rose-approvals.md) on getting approval tests working with the Gilded Rose kata
+  - If you want to use C#, you can use my [coverage starter branch](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/coverage-demo-start)
+- [Instructions here](/gilded-rose-approvals.md) on getting approval tests working with the Gilded Rose kata
 
 ## LINKS FROM DAY 2
 - Code coverage tools - see above
