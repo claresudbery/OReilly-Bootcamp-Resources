@@ -59,7 +59,16 @@ Links etc to be shared with bootcamp participants. The Google doc version of thi
 - Requirements are in the readme
 - Visit this url to fork (top right), then clone the code: https://github.com/emilybache/GildedRose-Refactoring-Kata.git
 - Choose your language
-  - If you want to use C#, you can use my [coverage starter branch](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/coverage-demo-start)
+  - If you want to use C#, you can use [my coverage starter branch](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/coverage-demo-start)
+  - …or [my coverage branch with CombinationApprovals already added](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/coverage-demo-wi-combinations)
+- [Instructions here](/gilded-rose-approvals.md) on getting approval tests working with the Gilded Rose kata
+
+## USING MUTATION TESTING TO IMPROVE TESTS - EXERCISE 
+- Code is [here](https://github.com/emilybache/GildedRose-Refactoring-Kata) 
+- Requirements are in the readme
+- Visit this url to fork (top right), then clone the code: https://github.com/emilybache/GildedRose-Refactoring-Kata.git
+- Choose your language
+  - If you want to use C#, you can use [my mutation starter branch](https://github.com/claresudbery/GildedRose-Refactoring-Kata/tree/csharp-mutation-start)
 - [Instructions here](/gilded-rose-approvals.md) on getting approval tests working with the Gilded Rose kata
 
 ## LINKS FROM DAY 2
